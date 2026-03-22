@@ -123,10 +123,6 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" width="50" height="50"/>
 </a>
 
-<a href="https://orm.drizzle.team/" target="_blank">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Drizzle.svg" width="50" height="50"/>
-</a>
-
 <a href="https://spring.io/projects/spring-boot" target="_blank">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" width="50" height="50"/>
 </a>
@@ -141,10 +137,6 @@
 
 <a href="https://reactnative.dev/" target="_blank">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" width="50" height="50"/>
-</a>
-
-<a href="https://expo.dev/" target="_blank">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Expo-Light.svg" width="50" height="50"/>
 </a>
 
 <a href="https://neon.tech/" target="_blank">
