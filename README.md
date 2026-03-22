@@ -163,7 +163,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="50" height="50"/>
 </a>
 <a href="https://www.vim.org/" target="_blank">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vim-Light.svg" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Dark.svg" width="50" height="50"/>
 </a>
 
 <a href="https://expressjs.com/" target="_blank">
