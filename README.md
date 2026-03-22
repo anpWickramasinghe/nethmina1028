@@ -162,6 +162,25 @@
 <a href="https://www.python.org/" target="_blank">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="50" height="50"/>
 </a>
+<a href="https://www.vim.org/" target="_blank">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vim-Light.svg" width="50" height="50"/>
+</a>
+
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" width="50" height="50"/>
+</a>
+
+<a href="https://hono.dev/" target="_blank">
+  <img src="https://hono.dev/images/logo.svg" width="50" height="50"/>
+</a>
+
+<a href="https://mui.com/" target="_blank">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Light.svg" width="50" height="50"/>
+</a>
+
+<a href="https://redux.js.org/" target="_blank">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="50" height="50"/>
+</a>
 
 </p>
 
