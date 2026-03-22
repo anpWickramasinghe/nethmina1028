@@ -7,11 +7,11 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **DevOps**
 
 - 🧑‍🎓 I’m an Undergraduate at **NSBM**
 
-- 💬 Ask me about **Web development **
+- 💬 Ask me about **Fullstack Engineering**
 
 - 📫 How to reach me **nethmina1028@gmail.com**
   
@@ -35,7 +35,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=anpWickramasinghe&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nethmina1028&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anpWickramasinghe&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
